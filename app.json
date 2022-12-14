@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/MyBotzz/RashmikaBot",
-    "repository": "https://github.com/MyBotzz/RashmikaBot",
+    "repository": "https://github.com/WhiteDevilSM/RashmikaBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
